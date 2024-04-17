@@ -1,0 +1,17 @@
+How to run the Hostel Management System (HMS) Project
+1. Extract the zip file and copy hostel folder
+2. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3. Open PHPMyAdmin (http://localhost/phpmyadmin)
+4. Create a database with name hostel_db
+5. Import hostel_db.sql file(given inside the zip package in SQL file folder)
+6. Run the script http://localhost/hostel (frontend)
+
+Credential for admin panel :
+Username: admin
+Password: 1234
+
+Credential for Customer Panel :
+Username: daud@gmail.com
+Password: 123
+
+Or Register a New User.
